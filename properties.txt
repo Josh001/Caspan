@@ -1,0 +1,5 @@
+logo size:270px x 70px
+banner progress bar timer:rgba(247, 141, 105, 1)
+slide size:1600 X 600px
+footer logo:195 X 23px
+general color:#F78D69;
